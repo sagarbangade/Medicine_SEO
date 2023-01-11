@@ -1,8 +1,7 @@
 # Medicine_SEO
+
 Thesis -
 CONTENT
-
-
 
 	CHAPTER 1: INTRODUCTION……………………………….....2</br>
 1.1.	Background of study…………………………………..…2</br>
